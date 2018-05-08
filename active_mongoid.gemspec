@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "activesupport", "> 3.2.0"
   spec.add_dependency "activerecord", "> 3.2.0"
-  spec.add_dependency "bson_ruby", "~> 4.3.0"
+  spec.add_dependency "bson", "~> 3.0"
   spec.add_dependency "mongoid", "> 2.8.0"
   spec.add_dependency "after_do", "~> 0.3.0"
 
